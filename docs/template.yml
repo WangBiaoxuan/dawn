@@ -19,5 +19,5 @@ middleware:
   summary: Dawn middleware project template
   
 demo:
-  location: dn-template-middleware
+  location: dawn_front@1.0.0
   summary: Dawn middleware project template
