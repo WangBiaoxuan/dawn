@@ -20,4 +20,4 @@ middleware:
   
 demo:
   location: dawn_front@1.0.0
-  summary: Dawn middleware project template
+  summary: my own Dawn-project project template
