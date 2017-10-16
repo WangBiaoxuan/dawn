@@ -17,3 +17,7 @@ node:
 middleware:
   location: dn-template-middleware
   summary: Dawn middleware project template
+  
+demo:
+  location: dn-template-middleware
+  summary: Dawn middleware project template
